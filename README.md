@@ -134,5 +134,9 @@ I am currently a graduate student at Jilin University, and I hope to join a majo
 
 </table>
 
+  <div align="center">
+    <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" />
+  </div>
+
 
 </div>
