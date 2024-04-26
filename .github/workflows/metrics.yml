@@ -42,11 +42,11 @@ jobs:
           plugin_activity_visibility: all
           plugin_introduction: yes
           plugin_introduction_title: yes
-          plugin_leetcode: yes
-          plugin_leetcode_limit_recent: 2
-          plugin_leetcode_limit_skills: 10
-          plugin_leetcode_sections: solved
-          plugin_leetcode_user: .user.login
+          plugin_leetcode.cn: yes
+          plugin_leetcode.cn_limit_recent: 2
+          plugin_leetcode.cn_limit_skills: 10
+          plugin_leetcode.cn_sections: solved
+          plugin_leetcode.cn_user: .user.login
           plugin_people: yes
           plugin_people_limit: 24
           plugin_people_size: 27
