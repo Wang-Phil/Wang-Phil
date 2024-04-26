@@ -56,13 +56,13 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/jobs.png" />
 
 I am currently a graduate student at Jilin University, and I hope to join a major Internet company when I graduate.
-<p></p>
+
 - 🧑‍💼 My current research focuses on medical image processing and learning Java's knowledge framework. Later, I would like to work on the back-end development of AI.
-<p></p>
+
 - 🌱 I’m currently learning JVM, Maven, Spring, SpringBoot, MyBatis, Vue etc. 
-<p></p>
+
 - ✨ I'm currently learning and share on my [blog](https://blog.csdn.net/m0_46335449).
-<p></p>
+
 - 🤔 I am a lifelong learner and have a passion for programming, artificial intelligence and computer graphics, philosophy, economics, as well as information science.
 
 </td></tr>
