@@ -94,6 +94,8 @@ I am currently a graduate student at Jilin University, and I hope to join a majo
     </td>
   </tr>
 
+</table>
+
 
 🧰 Tools:
 
@@ -116,6 +118,3 @@ I am currently a graduate student at Jilin University, and I hope to join a majo
   <img alt="github" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100" title="github">
   <img alt="node" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="85" title="node">
 </div>
-
-
-</table>
