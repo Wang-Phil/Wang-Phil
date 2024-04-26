@@ -43,7 +43,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Wang-Phil/Wang-Phil/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/Wang-Phil/Wang-Phil/profile-snake-contrib/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/Wang-Phil/gh/Wang-Phil/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+    <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/Wang-Phil/Wang-Phil/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
   </picture>
 
 
@@ -53,7 +53,7 @@
   
 <tr><td>
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/aihead.jpg" />
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/Wang-Phil/Wang-Phil/assets/images/aihead.jpg" />
 
 I am currently a graduate student at Jilin University, and I hope to join a major Internet company when I graduate.
 
@@ -71,26 +71,20 @@ I am currently a graduate student at Jilin University, and I hope to join a majo
 
 ### 🏢 Study Experience
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/yuanze.png" />
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/Wang-Phil/Wang-Phil/assets/images/JiLinUniversity.jpg" />
 
-- [吉林大学](https://lusun.com/) &emsp; 📌 2024-03-04 —— Now
+- [Ji Lin University](https://www.jlu.edu.cn/) &emsp; 📌 2023-09-01 —— Now
 
-  - 工作岗位：软件工程师
-  - 工作内容：创业
+  - College：College of Computer Science and Technology
+  - Research Interests：CNN, Medical Image Processing
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/tuhui.png" />
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/Wang-Phil/Wang-Phil/assets/images/tuhui.png" />
 
-- [广州图慧信息科技有限公司](https://www.tuhuimap.com/) &emsp; 📌 2023-06-19 —— 2024-01-19
+- [](https://www.dgut.edu.cn/) &emsp; 📌 2019-09-01 —— 2023-07-01
 
-  - 工作岗位：Web 前端开发工程师
-  - 工作内容：杂活
-
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/nio.png" />
-
-- [蔚来汽车科技（安徽）有限公司](https://www.nio.cn/) &emsp; 📌 2023-02-20 —— 2023-05-12
-
-  - 工作岗位：Web 前端开发实习生
-  - 工作内容：参与一站式数据治理与研发平台 DataSight 的开发与维护工作
+  - College：College of Cyber Science and Technology
+  - Subject：Software Engineering
+  - Class：2019 Yang Zhenning Innovation Class
 
 </td></tr>
 
