@@ -71,7 +71,7 @@ I am currently a graduate student at Jilin University, and I hope to join a majo
 
 ### 🏢 Study Experience
 
-<img align="right" width="70" src="https://cdn.jsdelivr.net/gh/Wang-Phil/Wang-Phil/assets/images/jd-xhh.jpg" />
+<img align="right" width="80" src="https://cdn.jsdelivr.net/gh/Wang-Phil/Wang-Phil/assets/images/jd-xhh.jpg" />
 
 - [Ji Lin University](https://www.jlu.edu.cn/) &emsp; 📌 2023-09-01 —— Now
 
