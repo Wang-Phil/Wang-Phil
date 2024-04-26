@@ -31,10 +31,11 @@
   </div>
 
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
-  <picture>
-    <!-- <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Wang-Phil/Wang-Phil/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/Wang-Phil/Wang-Phil/profile-snake-contrib/github-contribution-grid-snake.svg" /> -->
+  <!-- <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Wang-Phil/Wang-Phil/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/Wang-Phil/Wang-Phil/profile-snake-contrib/github-contribution-grid-snake.svg" />
     <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/Wang-Phil/gh/Wang-Phil/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-  </picture>
+  </picture> -->
+  ![](https://cdn.jsdelivr.net/gh/Wang-Phil/Wang-Phil@main/assets/github-contribution-grid-snake.svg)
 
 </div>
