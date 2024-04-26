@@ -36,6 +36,13 @@
 
   </div>
 
+I am currently a graduate student at Jilin University, and I hope to join a major Internet company when I graduate.
+
+- 🧑‍💼 My current research focuses on medical image processing and learning Java's knowledge framework. Later, I would like to work on the back-end development of AI.
+- 🌱 I’m currently learning JVM, Maven, Spring, SpringBoot, MyBatis, Vue etc. 
+- ✨ I'm currently learning and share on my [blog](https://blog.csdn.net/m0_46335449).
+- 🤔 I am a lifelong learner and have a passion for programming, artificial intelligence and computer graphics, philosophy, economics, as well as information science.
+
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Wang-Phil/Wang-Phil/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
