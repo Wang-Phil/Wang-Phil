@@ -37,13 +37,7 @@
   </div>
 </div>
 
-
-I am currently a graduate student at Jilin University, and I hope to join a major Internet company when I graduate.
-
-- 🧑‍💼 My current research focuses on medical image processing and learning Java's knowledge framework. Later, I would like to work on the back-end development of AI.
-- 🌱 I’m currently learning JVM, Maven, Spring, SpringBoot, MyBatis, Vue etc. 
-- ✨ I'm currently learning and share on my [blog](https://blog.csdn.net/m0_46335449).
-- 🤔 I am a lifelong learner and have a passion for programming, artificial intelligence and computer graphics, philosophy, economics, as well as information science.
+<br>
 
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
   <picture>
@@ -55,7 +49,19 @@ I am currently a graduate student at Jilin University, and I hope to join a majo
 
 ### 🤺 About Me
 
+<table>
+  
+<tr><td>
+
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/jobs.png" />
+
+
+I am currently a graduate student at Jilin University, and I hope to join a major Internet company when I graduate.
+
+- 🧑‍💼 My current research focuses on medical image processing and learning Java's knowledge framework. Later, I would like to work on the back-end development of AI.
+- 🌱 I’m currently learning JVM, Maven, Spring, SpringBoot, MyBatis, Vue etc. 
+- ✨ I'm currently learning and share on my [blog](https://blog.csdn.net/m0_46335449).
+- 🤔 I am a lifelong learner and have a passion for programming, artificial intelligence and computer graphics, philosophy, economics, as well as information science.
 
 <p>&emsp;&emsp;嗨，你好，我是小孙同学。热爱编程、摄影、读书、旅行。</p>
 <p>&emsp;&emsp;热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
@@ -90,3 +96,5 @@ I am currently a graduate student at Jilin University, and I hope to join a majo
   - 工作内容：参与一站式数据治理与研发平台 DataSight 的开发与维护工作
 
 </td></tr>
+
+</table>
