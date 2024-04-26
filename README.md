@@ -89,7 +89,7 @@ I am currently a graduate student at Jilin University, and I hope to join a majo
 </td></tr>
 
   <tr>
-    <td width="50%">
+    <td>
      <img width="100%" src="./github-metrics.svg">
     </td>
   </tr>
