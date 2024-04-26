@@ -37,6 +37,4 @@
     <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/Wang-Phil/gh/Wang-Phil/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
   </picture>
 
-  [](https://cdn.jsdelivr.net/gh/Wang-Phil/Wang-Phil@main/assets/github-contribution-grid-snake.svg)
-
 </div>
