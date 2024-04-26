@@ -53,7 +53,7 @@
   
 <tr><td>
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/Wang-Phil/Wang-Phil/assets/images/aihead.jpg" />
+<img align="right" width="188" src="https://cdn.jsdelivr.net/gh/Wang-Phil/Wang-Phil/assets/images/aihead.jpg" />
 
 I am currently a graduate student at Jilin University, and I hope to join a major Internet company when I graduate.
 
