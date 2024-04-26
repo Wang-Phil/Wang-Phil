@@ -90,7 +90,7 @@ I am currently a graduate student at Jilin University, and I hope to join a majo
 
   <tr>
     <td>
-     <img width="100%" src="https://cdn.jsdelivr.net/gh/Wang-Phil/Wang-Phil/github-metrics/metrics.svg">
+     <img width="100%" src="https://cdn.jsdelivr.net/gh/Wang-Phil/Wang-Phil/github-metrics/metrics_all.svg">
     </td>
   </tr>
 
