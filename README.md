@@ -56,17 +56,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/jobs.png" />
 
 
-I am currently a graduate student at Jilin University, and I hope to join a major Internet company when I graduate.
-
-- 🧑‍💼 My current research focuses on medical image processing and learning Java's knowledge framework. Later, I would like to work on the back-end development of AI.
-- 🌱 I’m currently learning JVM, Maven, Spring, SpringBoot, MyBatis, Vue etc. 
-- ✨ I'm currently learning and share on my [blog](https://blog.csdn.net/m0_46335449).
-- 🤔 I am a lifelong learner and have a passion for programming, artificial intelligence and computer graphics, philosophy, economics, as well as information science.
-
-<p>&emsp;&emsp;嗨，你好，我是小孙同学。热爱编程、摄影、读书、旅行。</p>
-<p>&emsp;&emsp;热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
-<p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
-<p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
+<p>I am currently a graduate student at Jilin University, and I hope to join a major Internet company when I graduate.</p>
+<p>&emsp;&emsp;- 🧑‍💼 My current research focuses on medical image processing and learning Java's knowledge framework. Later, I would like to work on the back-end development of AI.</p>
+<p>&emsp;&emsp;- 🌱 I’m currently learning JVM, Maven, Spring, SpringBoot, MyBatis, Vue etc. </p>
+<p>&emsp;&emsp;- ✨ I'm currently learning and share on my [blog](https://blog.csdn.net/m0_46335449).</p>
+<p>&emsp;&emsp;- 🤔 I am a lifelong learner and have a passion for programming, artificial intelligence and computer graphics, philosophy, economics, as well as information science.</p>
 
 </td></tr>
 
