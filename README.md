@@ -109,6 +109,7 @@ I am currently a graduate student at Jilin University, and I hope to join a majo
 ![Git](https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github)
 
+
 <!-- svg -->
 <div align="center">
   <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
@@ -118,6 +119,7 @@ I am currently a graduate student at Jilin University, and I hope to join a majo
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
   <img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
   <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /><br>
+  <img src="https://skillicons.dev/icons?i=c,cpp,mongodb,idea,git" /><br>
 </div>
 
 <!-- Gif -->
@@ -135,7 +137,7 @@ I am currently a graduate student at Jilin University, and I hope to join a majo
 </table>
 
   <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" />
+    <img src="https://cdn.jsdelivr.net/gh/Wang-Phil/Wang-Phil/assets/images/icon.png" />
   </div>
 
 
