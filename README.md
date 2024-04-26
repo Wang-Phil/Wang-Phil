@@ -80,7 +80,7 @@ I am currently a graduate student at Jilin University, and I hope to join a majo
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/Wang-Phil/Wang-Phil/assets/images/dglg-xhh.jpg" />
 
-- [](https://www.dgut.edu.cn/) &emsp; 📌 2019-09-01 —— 2023-07-01
+- [Dongguan University of Technology ](https://www.dgut.edu.cn/) &emsp; 📌 2019-09-01 —— 2023-07-01
 
   - College：College of Cyber Science and Technology
   - Subject：Software Engineering
