@@ -73,7 +73,7 @@ I am currently a graduate student at Jilin University, and I hope to join a majo
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/yuanze.png" />
 
-- [北京原则科技有限公司](https://lusun.com/) &emsp; 📌 2024-03-04 —— Now
+- [吉林大学](https://lusun.com/) &emsp; 📌 2024-03-04 —— Now
 
   - 工作岗位：软件工程师
   - 工作内容：创业
