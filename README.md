@@ -98,7 +98,7 @@ I am currently a graduate student at Jilin University, and I hope to join a majo
   <tr><td>
 🧰 Tools:
 
-&emsp;&emsp; 
+&emsp;&emsp;&emsp;&emsp;
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=style=flat-square&logo=linux&logoColor=black)
 ![Google Chrome](https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white)
