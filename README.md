@@ -43,7 +43,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Wang-Phil/Wang-Phil/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/Wang-Phil/Wang-Phil/profile-snake-contrib/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/Wang-Phil/gh/Wang-Phil/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+    <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/Wang-Phil/Wang-Phil/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
   </picture>
 
 
@@ -53,7 +53,7 @@
   
 <tr><td>
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/aihead.jpg" />
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/Wang-Phil/Wang-Phil/assets/images/aihead.jpg" />
 
 I am currently a graduate student at Jilin University, and I hope to join a major Internet company when I graduate.
 
