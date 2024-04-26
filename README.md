@@ -53,7 +53,7 @@
   
 <tr><td>
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/aihead.jpg" />
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/Wang-Phil/Wang-Phil/assets/images/aihead.jpg" />
 
 I am currently a graduate student at Jilin University, and I hope to join a major Internet company when I graduate.
 
@@ -71,14 +71,14 @@ I am currently a graduate student at Jilin University, and I hope to join a majo
 
 ### 🏢 Study Experience
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/Wang-Phil/Wang-Phil/assets/images/JiLinUniversity.jpg" />
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/Wang-Phil/Wang-Phil/assets/images/jd-xhh.jpg" />
 
 - [Ji Lin University](https://www.jlu.edu.cn/) &emsp; 📌 2023-09-01 —— Now
 
   - College：College of Computer Science and Technology
   - Research Interests：CNN, Medical Image Processing
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/Wang-Phil/Wang-Phil/assets/images/tuhui.png" />
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/Wang-Phil/Wang-Phil/assets/images/dglg-xhh.jpg" />
 
 - [](https://www.dgut.edu.cn/) &emsp; 📌 2019-09-01 —— 2023-07-01
 
