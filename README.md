@@ -18,13 +18,17 @@
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
 
+<!-- 个人信息统计 -->
+  | <img align="center" src="https://github-readme-stats.vercel.app/api?username=Wang-Phil&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wang-Phil&layout=compact&theme=buefy&hide_border=true" /> |
+| ------------- | ------------- |
+
   <!-- profile logo 个人资料徽标 -->
   <div>
-        <a href="https://sunguoqi.com/"><img src="https://img.shields.io/badge/Website-博客-green" /></a>&emsp;
-    <a href="https://twitter.com/Wang-Phil/"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
-    <a href="https://www.youtube.com/@Wang-Phil"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
-    <a href="https://mp.sunguoqi.com"><img src="https://img.shields.io/badge/WeChat-微信-blue" /></a>&emsp;
-    <a href="https://space.bilibili.com/448488855/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
+        <a href="https://blog.csdn.net/m0_46335449"><img src="https://img.shields.io/badge/Website-博客-green" /></a>&emsp;
+    <a href="https://twitter.com/Phil_Wang66"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
+    <a href="https://www.youtube.com/@Wang Phil"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
+    <a href="https://www.zhihu.com/people/wu-jin-zhi-zhan-20"><img src="https://img.shields.io/badge/zhihu-知乎-blue" /></a>&emsp;
+    <a href="https://space.bilibili.com/476624719/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
     <!-- visitor -->
     <img src="https://komarev.com/ghpvc/?username=Wang-Phil&label=Views&color=0e75b6&style=flat" alt="访问量统计" />&emsp;
     <!-- wakatime -->    
