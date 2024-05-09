@@ -487,7 +487,7 @@ A313</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 5.36m out of 136m users</span>
+                                    <span class="gh">ranked 5.36m out of 134m users</span>
                                 </div>
                                 <div class="text">Published 12 public repositories</div>
                             </div>
@@ -876,7 +876,7 @@ A313</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 10 May 2024, 02:07:37 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 10 May 2024, 03:03:25 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
