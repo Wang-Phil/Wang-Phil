@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1635" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1602" class="">
     <defs>
         <style/>
     </defs>
@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            153 Commits
+                            155 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -94,7 +94,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                             </svg>
-                            11 Pull requests opened
+                            12 Pull requests opened
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -272,29 +272,21 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 4 commits in
+                                        Pushed 2 commits in
                                         <span class="repo">Wang-Phil/javalearning</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#5af08a3</div>
-                                        <div class="message">Merge pull request #11 from Wang-Phil/A313
+                                        <div class="sha">#0e6ee82</div>
+                                        <div class="message">Merge pull request #12 from Wang-Phil/A313
 
-A313</div>
+二分查找，今天参加入党积极分子考试去了</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#bd71011</div>
-                                        <div class="message">二分查找，很多细节需要注意</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1306302</div>
-                                        <div class="message">回溯的问题，n皇后不是很难了</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c797c9a</div>
-                                        <div class="message">回溯的相关题目，已经是第二次做了，相对来说顺手</div>
+                                        <div class="sha">#e93114b</div>
+                                        <div class="message">二分查找，今天参加入党积极分子考试去了</div>
                                     </div>
                                 </div>
                             </section>
@@ -307,12 +299,12 @@ A313</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#11 A313</span>
+                                        <span class="issue">#12 二分查找，今天参加入党积极分子考试去了</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">Wang-Phil/javalearning</span></div>
-                                    <div>13 files changed <span class="code">++594 --0</span></div>
+                                    <div>3 files changed <span class="code">++160 --0</span></div>
                                 </div>
                             </section>
                         </div>
@@ -324,12 +316,12 @@ A313</div>
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#11 A313</span>
+                                        <span class="issue">#12 二分查找，今天参加入党积极分子考试去了</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">Wang-Phil/javalearning</span></div>
-                                    <div>13 files changed <span class="code">++594 --0</span></div>
+                                    <div>3 files changed <span class="code">++160 --0</span></div>
                                 </div>
                             </section>
                         </div>
@@ -565,7 +557,7 @@ A313</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="7.788944723618091 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="8.5678391959799 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -593,7 +585,7 @@ A313</div>
                                     <span class="prefix"></span>
                                     Contributor
                                 </div>
-                                <div class="text">Opened 11 pull requests</div>
+                                <div class="text">Opened 12 pull requests</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -876,7 +868,7 @@ A313</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 10 May 2024, 22:05:09 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 10 May 2024, 23:05:23 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
