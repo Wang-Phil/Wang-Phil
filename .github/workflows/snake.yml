@@ -22,7 +22,7 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/profile-snake-contrib/github-contribution-grid-snake1.svg
-            dist/profile-snake-contrib/github-contribution-grid-snake1-dark.svg?palette=github-dark
+            dist/profile-snake-contrib/github-contribution-grid-snake1-dark1.svg?palette=github-dark
 
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
