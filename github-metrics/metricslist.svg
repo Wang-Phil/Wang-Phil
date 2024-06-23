@@ -488,7 +488,7 @@ A313</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 3.67m out of 136m users</span>
+                                    <span class="gh">ranked 3.67m out of 139m users</span>
                                 </div>
                                 <div class="text">Published 17 public repositories</div>
                             </div>
@@ -679,7 +679,7 @@ A313</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 3.87m out of 136m users</span>
+                                    <span class="gh">ranked 3.87m out of 139m users</span>
                                 </div>
                                 <div class="text">Followed by 3 users</div>
                             </div>
@@ -878,7 +878,7 @@ A313</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 24 Jun 2024, 06:04:27 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Jun 2024, 07:07:31 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
