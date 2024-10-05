@@ -426,7 +426,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 2.92m out of 146m users</span>
+                                    <span class="gh">ranked 2.92m out of 145m users</span>
                                 </div>
                                 <div class="text">Published 21 public repositories</div>
                             </div>
@@ -590,7 +590,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 425k out of 146m users</span>
+                                    <span class="gh">ranked 425k out of 145m users</span>
                                 </div>
                                 <div class="text">Followed by 34 users</div>
                             </div>
@@ -902,7 +902,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 5 Oct 2024, 23:08:08 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 6 Oct 2024, 00:08:37 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
