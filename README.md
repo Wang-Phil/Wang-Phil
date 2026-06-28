@@ -71,7 +71,7 @@ I am a Test Development Engineer at Tencent, with a background in computer scien
 
 ### 💼 Work Experience
 
-<img align="right" width="80" src="https://avatars.githubusercontent.com/u/97531744?s=200&v=4" />
+<img align="right" width="80" src="https://cdn.jsdelivr.net/gh/Wang-Phil/Wang-Phil/assets/images/tencent.png" />
 
 - [Tencent](https://www.tencent.com/) &emsp; 📌 2026-07-01 —— Now
 
