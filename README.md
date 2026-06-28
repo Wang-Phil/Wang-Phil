@@ -55,15 +55,28 @@
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/Wang-Phil/Wang-Phil/assets/images/computer.png" />
 
-I am currently a graduate student at Jilin University, and I hope to join a major Internet company when I graduate.
+I am a Test Development Engineer at Tencent, with a background in computer science and software engineering.
 
-- 🧑‍💼 My current research focuses on medical image processing and learning Java's knowledge framework. Later, I would like to work on the back-end development of AI.
+- 🧑‍💼 I work on test development, focusing on automation, quality engineering, and building reliable testing infrastructure.
 
-- 🌱 I’m currently learning JVM, Maven, Spring, SpringBoot, MyBatis, Vue etc. 
+- 🌱 I'm experienced with JVM, Maven, Spring, SpringBoot, MyBatis, Vue, etc.
 
-- ✨ I'm currently learning and share on my [blog](https://blog.csdn.net/m0_46335449).
+- ✨ I learn and share on my [blog](https://blog.csdn.net/m0_46335449).
 
 - 🤔 I am a lifelong learner and have a passion for programming, artificial intelligence and computer graphics, philosophy, economics, as well as information science.
+
+</td></tr>
+
+<tr><td>
+
+### 💼 Work Experience
+
+<img align="right" width="80" src="https://avatars.githubusercontent.com/u/97531744?s=200&v=4" />
+
+- [Tencent](https://www.tencent.com/) &emsp; 📌 2026-07-01 —— Now
+
+  - Role：Test Development Engineer（测试开发）
+  - Focus：Test automation, quality engineering, and testing infrastructure
 
 </td></tr>
 
@@ -73,7 +86,7 @@ I am currently a graduate student at Jilin University, and I hope to join a majo
 
 <img align="right" width="80" src="https://cdn.jsdelivr.net/gh/Wang-Phil/Wang-Phil/assets/images/jd-xhh.jpg" />
 
-- [Ji Lin University](https://www.jlu.edu.cn/) &emsp; 📌 2023-09-01 —— Now
+- [Ji Lin University](https://www.jlu.edu.cn/) &emsp; 📌 2023-09-01 —— 2026-06-30
 
   - College：College of Computer Science and Technology
   - Research Interests：CNN, Medical Image Processing
