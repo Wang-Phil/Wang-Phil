@@ -41,9 +41,9 @@
 
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Wang-Phil/Wang-Phil/profile-snake-contrib/github-contribution-grid-snake-dark1.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Wang-Phil/Wang-Phil/profile-snake-contrib/github-contribution-grid-snake1-dark1.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/Wang-Phil/Wang-Phil/profile-snake-contrib/github-contribution-grid-snake1.svg" />
-    <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/Wang-Phil/Wang-Phil/profile-snake-contrib/github-contribution-grid-snake-dark1.svg" />
+    <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/Wang-Phil/Wang-Phil/profile-snake-contrib/github-contribution-grid-snake1-dark1.svg" />
   </picture>
 
 
@@ -100,7 +100,7 @@ I am currently a graduate student at Jilin University, and I hope to join a majo
 
 &emsp;&emsp;&emsp;&emsp;
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=style=flat-square&logo=linux&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Google Chrome](https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white)
 ![Edge](https://img.shields.io/badge/Edge-0078D7?style=flat-square&logo=Microsoft-edge&logoColor=white)
 ![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=fff&style=flat)
@@ -124,7 +124,7 @@ I am currently a graduate student at Jilin University, and I hope to join a majo
 
 <!-- Gif -->
 <div align="center">
-  <img alt-"html5" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100" title="html">
+  <img alt="html5" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100" title="html">
   <img alt="css" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100" title="css">
   <img alt="VSCode" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100" title="vscode">
   <img alt="javascript" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100" title="javascript">
@@ -139,6 +139,3 @@ I am currently a graduate student at Jilin University, and I hope to join a majo
   <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/Wang-Phil/Wang-Phil/assets/images/icon.png" />
   </div>
-
-
-</div>
