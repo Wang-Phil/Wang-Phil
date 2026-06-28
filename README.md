@@ -3,7 +3,7 @@
 
   <!-- dynamic typing effect 动态打字效果 -->
   <div>
-    <a href="https://blog.csdn.net/m0_46335449">
+    <a href="https://wang-phil.github.io/blog/">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm Phil, welcome here!&center=true&size=27" />
     </a>
   </div>
@@ -24,7 +24,8 @@
 
   <!-- profile logo 个人资料徽标 -->
   <div>
-        <a href="https://blog.csdn.net/m0_46335449"><img src="https://img.shields.io/badge/Website-博客-green" /></a>&emsp;
+        <a href="https://wang-phil.github.io/blog/"><img src="https://img.shields.io/badge/Blog-个人博客-24292f?style=flat&logo=github&logoColor=white" /></a>&emsp;
+        <a href="https://blog.csdn.net/m0_46335449"><img src="https://img.shields.io/badge/CSDN-博客-green" /></a>&emsp;
     <a href="https://twitter.com/Phil_Wang66"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
     <a href="https://www.youtube.com/@Wang Phil"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
     <a href="https://www.zhihu.com/people/wu-jin-zhi-zhan-20"><img src="https://img.shields.io/badge/zhihu-知乎-blue" /></a>&emsp;
@@ -61,7 +62,7 @@ I am a Test Development Engineer at Tencent, with a background in computer scien
 
 - 🌱 I'm experienced with JVM, Maven, Spring, SpringBoot, MyBatis, Vue, etc.
 
-- ✨ I learn and share on my [blog](https://blog.csdn.net/m0_46335449).
+- ✨ I learn and share on my [personal blog](https://wang-phil.github.io/blog/) and [CSDN blog](https://blog.csdn.net/m0_46335449).
 
 - 🤔 I am a lifelong learner and have a passion for programming, artificial intelligence and computer graphics, philosophy, economics, as well as information science.
 
