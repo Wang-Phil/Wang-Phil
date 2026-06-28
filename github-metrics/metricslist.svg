@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="733" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="718" class="">
     <defs>
         <style/>
     </defs>
@@ -65,7 +65,7 @@
                 </h2>
                 <div class="row fill-width">
                     <section>
-                        <div class="introduction">I want to work at a big company, so that I can learn a lot. So just fighting, Nothing can stop me!</div>
+                        <div class="introduction">try to learn more， try to learn myself more, try to learn the world more.</div>
                     </section>
                 </div>
             </section>
@@ -321,7 +321,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 28 Jun 2026, 21:08:48 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 28 Jun 2026, 23:09:02 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
